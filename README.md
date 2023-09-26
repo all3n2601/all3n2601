@@ -12,7 +12,8 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I'm a passionate software engineer with a strong background in Java and Dart. I enjoy <mention something you're passionate about or a fun fact about yourself>.
+  I'm a passionate software engineer with a strong background in Java, Dart , HTML ,CSS ,JavaScript ,SQL. I enjoy working with complex problems that let me explore a another dimension of possible ways to solve them.
+    Tech-savvy beginner with expertise in emerging technologies, driving digital transformation, and fostering innovation
 </p>
 
 <h3 align="center">My Interests</h3>
@@ -26,7 +27,7 @@
 <h3 align="center">What I'm Working On</h3>
 
 <p align="center">
-  Currently, I'm working on <mention a project or goal you're actively pursuing>. I'm excited about <mention what excites you about this project or goal>.
+  Currently, I'm working on OpticHUB Workers App. I'm excited about integrating a admin to user live tracking to monitor workers activites.
 </p>
 
 <h3 align="center">My GitHub Stats</h3>
