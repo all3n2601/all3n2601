@@ -44,31 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Stats">
 </p>
 
-
-
-
-<h3 align="center">My Top Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/all3n2601/project-name">
-    <img src="url-to-project-demo-or-screenshot" alt="Project Name" width="400">
-  </a>
-</p>
-
-<p align="center">
-  [Description of the project and what it does. Highlight key features and technologies used.]
-</p>
-
-<p align="center">
-  <a href="https://github.com/all3n2601/another-project">
-    <img src="url-to-project-demo-or-screenshot" alt="Another Project" width="400">
-  </a>
-</p>
-
-<p align="center">
-  [Description of the project and what it does. Highlight key features and technologies used.]
-</p>
-
 <h3 align="center">Get in Touch</h3>
 
 <p align="center">
