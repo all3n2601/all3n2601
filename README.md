@@ -20,7 +20,7 @@
 
 <p align="center">
   :computer: Software Development<br>
-  :rocket: <Your specific interest or project><br>
+  :rocket: Interested in Building Complex Apps That Modify the Way People Look Technology<br>
   :art: <Another interest or project>
 </p>
 
