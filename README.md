@@ -12,7 +12,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I'm a passionate software engineer with a strong background in Java, Dart , HTML ,CSS ,JavaScript ,SQL. I enjoy working with complex problems that let me explore a another dimension of possible ways to solve them.
+  I'm a passionate software engineer with a strong background in Java, Dart , HTML ,CSS ,JavaScript ,SQL. I enjoy working with complex problems that let me explore a another dimension of possible ways to solve them.<br/>
     Tech-savvy beginner with expertise in emerging technologies, driving digital transformation, and fostering innovation
 </p>
 
