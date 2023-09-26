@@ -48,7 +48,7 @@
 <p align="center">
   :computer: Software Development<br>
   :rocket: Interested in Building Complex Apps That Modify the Way People Look Technology<br>
-  :art: <Another interest or project>
+  :art: Started Exploring React and ReactNative
 </p>
 
 <h3 align="center">What I'm Working On</h3>
