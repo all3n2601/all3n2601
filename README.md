@@ -37,11 +37,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Languages Used">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Streak">
 </p>
 
 <h3 align="center">Get in Touch</h3>
