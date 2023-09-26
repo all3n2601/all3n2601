@@ -39,6 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Stats">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Stats">
+</p>
+
+
+
 
 <h3 align="center">My Top Projects</h3>
 
