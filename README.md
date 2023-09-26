@@ -12,7 +12,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I'm a passionate software engineer with a strong background in <your expertise>. I enjoy <mention something you're passionate about or a fun fact about yourself>.
+  I'm a passionate software engineer with a strong background in Java and Dart. I enjoy <mention something you're passionate about or a fun fact about yourself>.
 </p>
 
 <h3 align="center">My Interests</h3>
@@ -32,8 +32,13 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=dark&all_commits=true" alt="GitHub Stats">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Stats">
+</p>
+
 
 <h3 align="center">My Top Projects</h3>
 
