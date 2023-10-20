@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLoABIz_1LGmsUl8-ZXKs_-RGLx72TUBZ8t4OgRltxCW7A=s576-c-no" alt="Allen Febi M A" width="200" height="200">
-</p>
-
 <h1 align="center">Hi, I'm Allen Febi M A 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Good+to+see+you+back!)](https://git.io/typing-svg)
