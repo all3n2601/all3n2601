@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Allen Febi M A 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Good+to+see+you+back!)](https://git.io/typing-svg)
+<div align="center"">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Good+to+see+you+back!" alt="Typing SVG">
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/all3n-f3bi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
