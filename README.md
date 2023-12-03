@@ -63,8 +63,9 @@
   Currently, I'm working on OpticHUB Workers App. I'm excited about integrating a admin to user live tracking to monitor workers activites.
 </p>
 
-<h3 align="center">My GitHub Stats</h3>
-<a href="https://app.daily.dev/all3n2601"><img src="https://api.daily.dev/devcards/ec6c2a5221a349de9a3e8a670cf8ab75.png?r=tar" width="400" alt="Allen Febi M A's Dev Card"/></a>
+<h3 align="center">My Stats</h3>
+
+<a href="https://app.daily.dev/all3n2601"><img src="https://api.daily.dev/devcards/ec6c2a5221a349de9a3e8a670cf8ab75.png?r=tar" align="center" height=40 alt="Allen Febi M A's Dev Card"/></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=dark&all_commits=true" alt="GitHub Stats">
