@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Allen Febi M A 👋</h1>
+<h1 align="center">Hi, I'm Allen Febi M A <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48></h1>
 
 <div align="center"">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Good+to+see+you+back!" alt="Typing SVG">
