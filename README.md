@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/all3n-f3bi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/allen-febi"><img src="https://img.shields.io/twitter/follow/allen_febi?style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/allen_febi"><img src="https://img.shields.io/twitter/follow/allen_febi?style=social" alt="Twitter"></a>
 </p>
 
 <h3 align="center">About Me</h3>
