@@ -1,119 +1,153 @@
-<h1 align="center">Hi, I'm Allen Febi M A <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48></h1>
+<h1 align="center">Hi, I'm Allen Febi 👋</h1>
 
-<div align="center"">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Good+to+see+you+back!" alt="Typing SVG">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Grad+Student+@+Northeastern;Software+Engineer;Mobile+Dev+Enthusiast;Open+to+Summer+2026+Internships!&center=true&width=500&height=50" alt="Typing SVG">
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/all3n-f3bi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/allen_febi"><img src="https://img.shields.io/twitter/follow/allen_febi?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/all3n-f3bi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/allen_febi"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:allsurej@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="center">About Me</h3>
+---
+
+## 🎓 About Me
+
+I'm a **Computer Science grad student at Northeastern University** (Class of 2027) with hands-on production engineering experience. I've built systems handling 1000+ daily transactions and optimized platforms serving 500+ users. Currently seeking **Software Engineering internships for Summer 2026**, especially roles focused on **mobile development and Android engineering**.
+
+**🔹 What I do:**
+- Build scalable full-stack applications with real-world impact
+- Develop mobile apps using Flutter and React Native
+- Optimize backend systems for performance and reliability
+- Research and implement AI/ML solutions
+
+**🔹 Recent Highlights:**
+- 🏆 Won hackathon building AI-powered collaboration platform
+- 💼 Delivered production POS system with 99.9% uptime processing 1000+ daily transactions
+- 📱 Published IEEE research paper on disaster management systems
+- 🎯 Filed patent for real-time environmental alert system
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer** @ Siga Infotech *(Sept 2024 - July 2025)*
+- Built production restaurant POS system with Flutter, MySQL, and Stripe integration
+- Reduced order processing time by 40% through query optimization and caching
+- Achieved 99.9% uptime across 2 UK restaurant chains
+
+**Application Developer Intern** @ IIT Guwahati *(Jan 2023 - Apr 2023)*
+- Developed energy trading platform with MERN stack serving 500+ users
+- Improved load time by 60% (800ms → 320ms) with algorithm optimization
+- Built RESTful APIs with complete authentication and transaction management
+
+---
+
+## 🚀 Featured Projects
+
+### [CollabCore](https://github.com/all3n2601) - Student Collaboration Platform 🏆
+**Hackathon Winner** | *React • FastAPI • Firebase • TailwindCSS*
+
+LinkedIn-style platform for academic collaboration with AI-powered semantic search
+- Real-time chat with Socket.io, Kanban boards, video calling with Jitsi
+- 10+ integrated features including document sharing and skill matching
+
+### [FastTime](https://github.com/all3n2601) - Intermittent Fasting Tracker
+*Flutter • Firebase • Hive • BLoC Pattern*
+
+Comprehensive health tracking app with gamified achievements
+- 5+ fasting protocols with real-time timers and visual stage indicators
+- Body metrics tracking with FL Chart analytics and custom Rive animations
+
+### [NavX](https://github.com/all3n2601) - AI Ride Sharing Platform 🥈
+**2nd Place (72 teams)** | *MERN • Flutter • OpenCV • TensorFlow*
+
+Cross-platform carpooling with ML facial recognition (95% accuracy)
+- Real-time matching with Socket.io and emergency SOS system
+- Offline functionality with SQLite caching for 1000+ users
+
+### [Emergency Communication System](https://github.com/all3n2601)
+*React • Node.js • Arduino • LoRaWAN • MQTT*
+
+Disaster-resilient mesh network with 10km range and 99% packet delivery
+- Real-time IoT dashboard supporting 50+ concurrent devices
+- Sub-second latency with WebSocket visualization
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+```
+Java • Python • JavaScript • Dart • C++ • SQL
+```
+
+**Frontend & Mobile**
+```
+React.js • Flutter • React Native • Android SDK • HTML/CSS • TailwindCSS
+```
+
+**Backend & Databases**
+```
+Node.js • Express.js • MySQL • PostgreSQL • MongoDB • Firebase
+```
+
+**Tools & Platforms**
+```
+Git • Docker • AWS • REST APIs • Socket.io • MQTT
+```
+
+**Currently Learning**
+```
+Advanced Android Development • System Design • Cloud Architecture
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 📄 **IEEE Publication**: Natural Disaster Management System (ICCCSMD'24)
+- 🔬 **Patent Filed**: Safety Device for Real-Time Environmental Alert (App No: 202441052914)
+- 🥇 **Hackathon Winner**: CollabCore collaboration platform
+- 🥈 **2nd Place**: NavX ride-sharing app (72 teams, 24-hour hackathon)
+- 🎓 **Academic Excellence**: 8.93/10 CGPA at VIT-AP University
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively seeking **Summer 2026 Software Engineering internships** with focus on mobile development and backend systems. Open to opportunities in fintech, healthcare tech, and enterprise platforms.
+
+Feel free to reach out if you want to:
+- Discuss potential internship opportunities
+- Collaborate on open-source projects
+- Chat about mobile development or system design
+- Connect over shared interests in tech
 
 <p align="center">
-  I'm a passionate software engineer with a strong background in Java, Dart , HTML ,CSS ,JavaScript ,SQL. I enjoy working with complex problems that let me explore a another dimension of possible ways to solve them.<br/>
-    Tech-savvy beginner with expertise in emerging technologies, driving digital transformation, and fostering innovation
-  <br/>
-  Developer of ASA Basic Flutter Apps
-  </br>
-  &nbsp;
-  &nbsp;- ASA Notepad
-    </br>
-  &nbsp;- ASA Calculator
-    </br>
-  &nbsp;- ASA OpticHub Workers App
-    </br>
-  &nbsp; - ASA Weather App
-    </br>
-  &nbsp; - ASA TODO App
+  <strong>📧 Email:</strong> allsurej@gmail.com | <strong>📱 Phone:</strong> (617) 606-8268
 </p>
 
 <p align="center">
-<h3 align="center">FrameWorks Used</h3>
-
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-  <h3 align="center">Languages Used</h3>
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
+  <i>Thanks for stopping by! Let's build something awesome together 🚀</i>
 </p>
-<h3 align="center">Databases Used</h3>
 
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h3 align="center">Tools Familiar</h3>
-
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-<h3 align="center">My Interests</h3>
+---
 
 <p align="center">
-  :computer: Software Development<br>
-  :rocket: Interested in Building Complex Apps That Modify the Way People Look Technology<br>
-  :art: Started Exploring React and ReactNative
-</p>
-
-<h3 align="center">What I'm Working On</h3>
-
-<p align="center">
-  Currently, I'm working on OpticHUB Workers App. I'm excited about integrating a admin to user live tracking to monitor workers activites.
-</p>
-
-<p align="left">
-<h3 align="center">My Stats</h3>
-
-<a href="https://app.daily.dev/all3n2601"><img src="https://api.daily.dev/devcards/ec6c2a5221a349de9a3e8a670cf8ab75.png?r=tar" align="left" height=450 alt="Allen Febi M A's Dev Card"/></a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=dark&all_commits=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Languages Used">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Streak">
-</p>
-
-</p>
-<h3 align="center">Get in Touch</h3>
-
-<p align="center">
-  Feel free to reach out if you have any questions or just want to chat. You can connect with me on <a href="https://www.linkedin.com/in/all3n-f3bi/">LinkedIn</a> or <a href="https://twitter.com/allen-febi">Twitter</a>.
-</p>
-
-<p align="center">
-  Thanks for visiting my GitHub profile! 😊
+  <img src="https://komarev.com/ghpvc/?username=all3n2601&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
