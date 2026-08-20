@@ -18,7 +18,7 @@ I'm a **data engineer and M.S. Computer Science student at Northeastern Universi
 
 Most recently, I worked on AI and data platforms at **SharkNinja**, where I developed Snowflake/dbt models for consumer survey analytics, built LLM-assisted transformation workflows with Snowflake Cortex, and caught a deduplication defect that was silently dropping records.
 
-I'm especially interested in **data engineering, analytics engineering, data quality, and AI-adjacent data platforms**. I am currently seeking **Fall 2026 co-op opportunities and Summer 2027 internships**.
+I'm especially interested in **data engineering, analytics engineering, data quality, and AI-adjacent data platforms**. I am currently seeking **Summer 2027 Co-op & Full Time Opportunities**.
 
 ### What I work on
 
