@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/all3n-f3bi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://all3n2601.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+  <a href="https://www.shippedbyallen.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
   <a href="mailto:mariaantonyalphons.a@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **data engineer and M.S. Computer Science student at Northeastern University** (graduating December 2027). I build reliable data models, transformation workflows, and backend data systems using **SQL, Python, Snowflake, dbt, and PostgreSQL**.
+I'm a **data engineer and M.S. Computer Science student at Northeastern University** (graduating Spring 2027). I build reliable data models, transformation workflows, and backend data systems using **SQL, Python, Snowflake, dbt, and PostgreSQL**.
 
 Most recently, I worked on AI and data platforms at **SharkNinja**, where I developed Snowflake/dbt models for consumer survey analytics, built LLM-assisted transformation workflows with Snowflake Cortex, and caught a deduplication defect that was silently dropping records.
 
