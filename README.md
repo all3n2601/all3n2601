@@ -16,9 +16,9 @@
 
 I'm a **data engineer and M.S. Computer Science student at Northeastern University** (graduating Spring 2027). I build reliable data models, transformation workflows, and backend data systems using **SQL, Python, Snowflake, dbt, and PostgreSQL**.
 
-Most recently, I worked on AI and data platforms at **SharkNinja**, where I developed Snowflake/dbt models for consumer survey analytics, built LLM-assisted transformation workflows with Snowflake Cortex, and caught a deduplication defect that was silently dropping records.
+Most recently, I worked on AI and data platforms at **SharkNinja**, where I developed Snowflake/dbt models for consumer analytics and worked with enterprise and vendor datasets from **Oracle, Palantir, Kyra, MyTake, and Meltwater**. I also built a Snowflake Cortex thematic-analysis pipeline operating across **256M rows** and caught a deduplication defect that was silently dropping records.
 
-I'm especially interested in **data engineering, analytics engineering, data quality, and AI-adjacent data platforms**. I am currently seeking **Summer 2027 Co-op & Full Time Opportunities**.
+I'm especially interested in **data engineering, analytics engineering, data quality, and AI-adjacent data platforms**. I am currently seeking **Fall 2026 co-op opportunities and Summer 2027 internships**.
 
 ### What I work on
 
@@ -36,8 +36,9 @@ I'm especially interested in **data engineering, analytics engineering, data qua
 *Snowflake · dbt · SQL · Python · Snowflake Cortex*
 
 - Built dbt models that standardized MyTake survey data for purchase intent, star ratings, and price sensitivity.
+- Worked with enterprise and vendor data from Oracle, Palantir, Kyra, MyTake, and Meltwater to support consumer and market analysis.
 - Added incremental loading, change-data capture, and soft-delete handling for repeatable refreshes.
-- Developed a multi-pass theme-extraction workflow for open-ended consumer feedback and fixed a deduplication path that silently dropped survey responses.
+- Developed a multi-pass thematic-analysis workflow with Snowflake Cortex operating across 256M rows of consumer feedback data, and fixed a deduplication path that silently dropped survey responses.
 - Automated Salesforce content translation across 12 markets, reducing localization time by 60%, and built an OCR workflow that tagged 10,000+ images with 95% accuracy.
 
 ### Graduate Research Assistant — [Food ALERT](https://foodalertgo.com)
@@ -78,6 +79,10 @@ I'm also developing a research project on **contract testing for non-determinist
 **Databases**
 
 `PostgreSQL` · `T-SQL` · `MySQL` · `MongoDB` · `SQLite`
+
+**Enterprise & Vendor Data Ecosystems**
+
+`Oracle` · `Palantir` · `Kyra` · `MyTake` · `Meltwater`
 
 **Cloud, DevOps & Services**
 
